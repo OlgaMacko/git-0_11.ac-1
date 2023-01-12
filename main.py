@@ -1,5 +1,9 @@
 
 print ("Olga Macko")
+print ("Patriks Pozņaks")
+
+
+print ("Olga Macko")
 print ("Artūrs Bobičs")
 
 
@@ -20,6 +24,7 @@ print ("Rihards Azarevičs")
 
 
 print("Kristers Zelčs")
+
 
 
 

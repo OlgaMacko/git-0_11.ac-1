@@ -1,1 +1,1 @@
-print ("Olga Macko")
+print ("Edgars Buzinskis")
